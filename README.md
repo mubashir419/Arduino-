@@ -65,6 +65,6 @@ Feel free to fork this repository and submit pull requests to add new melodies o
 
 ---
 
-## ⭐ Credits
+## Credits
 - Mario Theme Song by Nintendo.
 - Based on simple Arduino tone-playing examples.
